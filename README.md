@@ -1,2 +1,2 @@
 # random_quote_generator
-Web app that generator random Quote on each button clicked 
+Web app that generator random unique Quote on button clicked 
